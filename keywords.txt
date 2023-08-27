@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For chASM2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+chasm_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+chasm_setmode	KEYWORD2
+chasm_write	KEYWORD2
+chasm_read	KEYWORD2
